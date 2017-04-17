@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"				"SoundCommands"
+	"version"			"1.0"
+	"author_name"			"@NicolasStr_"
+	"info"				"This is very useful"
+}
